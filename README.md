@@ -73,3 +73,17 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fyamith01&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=70a5fd&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&title_color=00d4ff&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de contribuciones" />
 
 </div>
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyamith01/fyamith01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyamith01/fyamith01/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiéndose el gráfico de contribuciones" src="https://raw.githubusercontent.com/fyamith01/fyamith01/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4c6e,100:0d1117&height=120&section=footer" alt="" width="100%" />
