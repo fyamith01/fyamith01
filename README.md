@@ -60,3 +60,16 @@
 <a href="https://github.com/fyamith01/VozArtificial_xtts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=VozArtificial_xtts&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio VozArtificial_xtts" /></a>
 
 </div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fyamith01&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&locale=es&cache_seconds=86400" alt="Estadísticas de GitHub de Fabián Tovar" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyamith01&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&locale=es&cache_seconds=86400" alt="Lenguajes más usados" />
+
+<img src="https://streak-stats.demolab.com?user=fyamith01&background=0D1117&border=30363D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&locale=es" alt="Racha de contribuciones" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fyamith01&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=70a5fd&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&title_color=00d4ff&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de contribuciones" />
+
+</div>
