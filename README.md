@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=F%C3%ADsico+%E2%80%94+Universidad+de+Antioquia;T%C3%A9cnico+en+Programaci%C3%B3n+de+Software+%E2%80%94+SENA;Ciencia+de+Datos+%C2%B7+Machine+Learning+%C2%B7+IA;Convirtiendo+datos+en+decisiones" alt="Físico (UdeA) · Técnico en Programación de Software (SENA) · Ciencia de Datos, ML e IA" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=fyamith01&color=00d4ff&style=flat&label=Visitas" alt="Visitas al perfil" />
-
 </div>
 
 ## 👨‍🔬 Sobre mí
