@@ -46,3 +46,17 @@
 <img src="https://img.shields.io/badge/Servidores%20locales-30363D?style=for-the-badge" alt="Servidores locales" />
 
 </div>
+
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/fyamith01/prediccion_ganadera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=prediccion_ganadera&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio prediccion_ganadera" /></a>
+
+<a href="https://github.com/fyamith01/analisis-llamadas-ia_exhibicion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=analisis-llamadas-ia_exhibicion&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio analisis-llamadas-ia_exhibicion" /></a>
+<a href="https://github.com/fyamith01/transcripcion-llamadas-ia_exhibicion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=transcripcion-llamadas-ia_exhibicion&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio transcripcion-llamadas-ia_exhibicion" /></a>
+
+<a href="https://github.com/fyamith01/SegmentacionClientes_RFM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=SegmentacionClientes_RFM&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio SegmentacionClientes_RFM" /></a>
+<a href="https://github.com/fyamith01/VozArtificial_xtts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fyamith01&repo=VozArtificial_xtts&bg_color=0d1117&title_color=00d4ff&icon_color=70a5fd&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" alt="Repositorio VozArtificial_xtts" /></a>
+
+</div>
