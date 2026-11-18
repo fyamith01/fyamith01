@@ -68,8 +68,6 @@
 
 <img src="https://streak-stats.demolab.com?user=fyamith01&background=0D1117&border=30363D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&locale=es" alt="Racha de contribuciones" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fyamith01&bg_color=0d1117&color=c9d1d9&line=00d4ff&point=70a5fd&area=true&area_color=00d4ff&hide_border=false&border_color=30363d&title_color=00d4ff&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de contribuciones" />
-
 </div>
 
 ## 🐍 Contribuciones
